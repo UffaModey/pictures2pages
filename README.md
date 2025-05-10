@@ -51,7 +51,7 @@ This project combines computer vision and natural language generation to demonst
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/picture2pages
+git clone https://github.com/UffaModey/pictures2pages
 cd picture2pages
 ```
 ### 2. Build the Lambda Docker Image
